@@ -1,0 +1,17 @@
+{
+  "name": "Express-Test",
+  "version": "0.0.1",
+  "description": “Auto routing via Express”,
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.2.0",
+    "connect": "^2.16.2",
+    "express": "4.x",
+  },
+  "scripts": {
+    "start": "node server.js",
+    "debug": "node service server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {}
+}
